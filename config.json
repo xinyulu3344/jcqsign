@@ -1,0 +1,17 @@
+{
+    "accessKey": "",
+    "secretKey": "",
+    "endpoint": "jcq-shared-004.cn-north-1.jdcloud.com",
+    "dateTime": "",
+    "scheme": "https",
+    "consumerParams": {
+        "topic": "xinyulu3344",
+        "consumerGroupId": "consumer1",
+        "size": 32,
+        "consumerId": "httpProxyId",
+        "consumeFromWhere": "HEAD",
+        "filterExpressionType":"",
+        "filterExpression": "",
+        "ack": "true"
+    }
+}
