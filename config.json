@@ -1,8 +1,8 @@
 {
-    "accessKey": "",
-    "secretKey": "",
+    "accessKey": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "secretKey": "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
     "endpoint": "jcq-shared-004.cn-north-1.jdcloud.com",
-    "dateTime": "",
+    "dateTime": "2021-12-24T03:28:47Z",
     "scheme": "https",
     "consumerParams": {
         "topic": "xinyulu3344",
